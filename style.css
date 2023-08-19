@@ -33,7 +33,7 @@
   }
   
   #navbar a:hover {
-    color: rgb(12, 3, 6);
+    color: rgb(13, 13, 13);
   }
   
   .right-side {
@@ -78,7 +78,7 @@
   
   .container {
     margin: 0 auto;
-    padding: 10px;
+    padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px #7b3bb0;
     border-radius: 5px;
@@ -107,13 +107,14 @@
   .form-group input[type="number"] {
     width: 98%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #b70991;
     border-radius: 5px;
     margin-right: 10px;
+    
   }
   
   .form-group input[type="submit"] {
-    background-color: #000000;
+    background-color: #7b3bb0;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -124,5 +125,5 @@
   }
   
   .form-group input[type="submit"]:hover {
-    background-color: #7b3bb0;
+    background-color: #000000;
   }
